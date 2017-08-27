@@ -1,0 +1,68 @@
+
+CS 791/891 - Web Archving Seminar
+
+Fall 2017
+
+CRNs: 21302 and 21303
+
+Instructors: Michael L. Nelson <mln@cs.odu.edu>
+             http://www.cs.odu.edu/~mln/
+             Michele C. Weigle <mweigle@cs.odu.edu>
+             http://www.cs.odu.edu/~mweigle/
+
+Office Hours: R, 3:00-4:00 and by appointment
+
+Time: T 1:45 - 4:15 pm
+
+Place: ECS, r. 3102
+
+This class will provide an in-depth exploration of advanced research
+issues surrounding web archiving, with emphasis on past, current,
+and future work of the ODU Web Science and Digital Libraries (WS-DL)
+resarch group.  Topics will include: web archiving basics, the W3C
+Web Architecture, a survey of open issues in web archiving, research
+methodology, and a review of tools and proficiencies necessary for
+success with the WS-DL group.  Students must be comfortable with
+self-directed learning appropriate for an advanced graduate class.
+
+Prerequisites: Permission of the instructors.
+
+Attendance Policy: Attendance is required for class participation,
+presentation, and discussion.  Absences must cleared with the
+instructors prior to class.  You are responsible for everything
+that is said, discussed, and presented during class.
+
+
+Grading: 
+
+   The class is pass/fail.  A passing grade will be determined by
+   class participation and satisfactory performance on projects to
+   be assigned later by the instructors.
+
+   Late assignments are not accepted unless you have a documented
+   reason approved by the instructor prior to the due date.
+   Information about assignments will be provided via the class
+   home page and email list.
+
+ODU Honor Code:
+
+  Please familiarize yourself with the ODU Honor Code:
+
+  https://www.odu.edu/about/monarchcitizenship
+
+  especially resources pertaining to plagiarism and academic integrity:
+
+  https://graduate.cs.odu.edu/resources/academic-integrity/
+
+Class Homepage: 
+
+   https://phonedude.github.io/cs891-f17/
+
+Class Email List:
+
+   http://groups.google.com/group/cs891-f17/
+   You need to register yourself to this list.
+
+Class Textbook:
+
+   no textbooks; readings will be assigned by the instructors.
