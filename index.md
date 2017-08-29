@@ -7,7 +7,7 @@ Time: Wednesdays 2:00pm - 4:30pm
 
 Place: E&CS, r. 3102 
 
-[Syllabus]()
+[Syllabus](https://raw.githubusercontent.com/phonedude/cs891-f17/master/syllabus.txt)
 
 ### Class Email list
 * [https://groups.google.com/group/cs891-f17](https://groups.google.com/group/cs891-f17)
