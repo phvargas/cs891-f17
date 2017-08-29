@@ -3,7 +3,7 @@ Instructors: [Michael L. Nelson](http://www.cs.odu.edu/~mln/) <mln@cs.odu.edu>, 
 
 Office Hours: Thursdays 3-4 and by appointment
 
-Time: Tuesdays 1:45pm - 4:15pm
+Time: Wednesdays 2:00pm - 4:30pm
 
 Place: E&CS, r. 3102 
 
@@ -13,22 +13,22 @@ Place: E&CS, r. 3102
 * [https://groups.google.com/group/cs891-f17](https://groups.google.com/group/cs891-f17)
 
 ### Class Schedule (subject to change)
-* Week 1 - August 29 - (no class)
-* Week 2 - September 5 - Administrivia, W3C Web Architecture, Memento
-* Week 3 - September 12 - Research Methods
-* Week 4 - September 19 - 
-* Week 5 - September 26 - 
-* Week 6 - October 3 - 
-* Week 7 - October 10 - (fall holiday, no class)
-* Week 8 - October 17 -  
-* Week 9 - October 24 - 
-* Week 10 - October 31 - 
-* Week 11 - November 7 - 
-* Week 12 - November 14 - 
-* Week 13 - November 21 - 
-* Week 14 - November 28 - 
-* Week 15 - December 5 - 
-* Week 16 - December 12 - Exam Week 
+* Week 1 - August 30 - (no class)
+* Week 2 - September 6 - Administrivia, W3C Web Architecture, Memento
+* Week 3 - September 13 - Research Methods
+* Week 4 - September 20 - 
+* Week 5 - September 27 - 
+* Week 6 - October 4 - 
+* Week 7 - October 11 - 
+* Week 8 - October 18 -  
+* Week 9 - October 25 - 
+* Week 10 - November 1 - 
+* Week 11 - November 8 - 
+* Week 12 - November 15 - 
+* Week 13 - November 22 - (Thanksgiving holiday, no class)
+* Week 14 - November 29 - 
+* Week 15 - December 6 - 
+* Week 16 - December 13 - Exam Week 
 
 
 ### Assignments (subject to change)
