@@ -1,7 +1,7 @@
 ### ODU CS 791/891 for Fall 2017.
 Instructors: [Michael L. Nelson](http://www.cs.odu.edu/~mln/) <mln@cs.odu.edu>, [Michele C. Weigle](http://www.cs.odu.edu/~mweigle/) <mweigle@cs.odu.edu>
 
-Office Hours: Thursdays 3-4 and by appointment
+Office Hours: Mondays/Wednesdays 9-10am (Weigle, r. 3206), Thursdays 3-4 (Nelson), and by appointment
 
 Time: Wednesdays 2:00pm - 4:30pm
 
