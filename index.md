@@ -14,7 +14,7 @@ Place: E&CS, r. 3102
 
 ### Class Schedule (subject to change)
 * Week 1 - August 30 - (no class)
-* Week 2 - September 6 - Administrivia, W3C Web Architecture, Memento
+* Week 2 - September 6 - [Administrivia, W3C Web Architecture, Memento](https://github.com/phonedude/cs891-f17/blob/master/slides/week-01-web-arch-memento.pptx?raw=true)
 * Week 3 - September 13 - Research Methods
 * Week 4 - September 20 - 
 * Week 5 - September 27 - 
