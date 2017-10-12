@@ -1,7 +1,7 @@
 # Assignment - Week 6
 
-* archive-it.org(https://archive-it.org/collections/9539)
-* webrecorder.io(https://webrecorder.io/pvargas/las-vegas-massacre-2017
+* [archive-it.org](https://archive-it.org/collections/9539)
+* [webrecorder.io](https://webrecorder.io/pvargas/las-vegas-massacre-2017
 * WAIL
 * WARCreate 
 
