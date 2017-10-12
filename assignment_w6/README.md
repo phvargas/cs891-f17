@@ -6,7 +6,7 @@
 * WARCreate 
 
 Seeds
-* [https://newrepublic.com/article/145192/alt-lite-celebrated-las-vegas-massacre https://newrepublic.com/article/145192/alt-lite-celebrated-las-vegas-massacre]
+* https://newrepublic.com/article/145192/alt-lite-celebrated-las-vegas-massacre 
 * [https://www.rawstory.com/2017/10/trump-campaign-exploits-las-vegas-massacre-in-fundraising-email/ https://www.rawstory.com/2017/10/trump-campaign-exploits-las-vegas-massacre-in-fundraising-email/]
 * [http://www.mercurynews.com/2017/10/07/gun-control-debate-ask-las-vegas-massacre-survivors-where-they-stand/ http://www.mercurynews.com/2017/10/07/gun-control-debate-ask-las-vegas-massacre-survivors-where-they-stand/]
 * [http://www.latimes.com/local/lanow/la-me-vegas-memorial-20171007-story.html http://www.latimes.com/local/lanow/la-me-vegas-memorial-20171007-story.html]
