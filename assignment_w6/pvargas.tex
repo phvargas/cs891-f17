@@ -196,11 +196,17 @@ The preservation of events has had a great deal of importance in every culture o
 \begin{itemize}
 	\item Representation of a web page resources can be saved into a compressed format. The user does not have to worry about the resource size. If required, \textbf{WARCreate} will break the file into various chunks to accommodate size.
 	
+	\item All resources representation are retrieved automatically without any user intervention.
+	
+	\item The steps to create a WARC file is very simplify to the user. The user opens Chrome web browser, types the URL and clicks on \textbf{•}{WARCreate} add-on
+	
 \end{itemize}
 
 \newpage
 \subsubsection{Disadvantages}
 \begin{itemize}
+	\item It is only available in Chrome
+	
 	\item A major disadvantage of \textbf{WARCreate} is the lack of interaction with the user during the generation of the WARC file. If the WARC file is not generated quickly when the user presses the ``Generate WARC'' button, then the user may continue to press the same button several times, leading to the duplication of the same WARC file. This was a common problem while working with \textbf{WARCreate}.
 	\begin{figure}[h]
 		\includegraphics[scale=.25]{images/warcreate_prob.jpg}
@@ -214,10 +220,11 @@ The preservation of events has had a great deal of importance in every culture o
 	\end{figure}
 \end{itemize}
 
+\newpage
 \section{Conclusions}
 I believe that 15 seeds were enough to preserve what transpired in the Las Vegas massacre. Heroism came to light on videos showing first responders providing medical assistance to injured victims. A web page was added to the collection showing the faces of those who were mortally wounded. The conversation about where people stand on gun control was preserved. The healing process was captured when the Vice-President and the President paid visit to the victims of this horrific act. Fake news angle also was preserved on how  the Islamic State militant group (ISIS) published information detailing how they were responsible for this attack.
 
-A few weeks after the Las Vegas massacre, the archived page compared with the live page shows some difference in content.  The screen-shot below is from the original archived page \url{http://www.mercurynews.com/2017/10/07/gun-control-debate-ask-las-vegas-massacre-survivors-where-they-stand/}. The section labeled ``Related Articles'' marks some of the differences between the two represented resources.  \newpage
+A few weeks after the Las Vegas massacre, the archived page compared with the live page shows some difference in content.  The screen-shot below is from the original archived page \url{http://www.mercurynews.com/2017/10/07/gun-control-debate-ask-las-vegas-massacre-survivors-where-they-stand/}. The section labeled ``Related Articles'' marks some of the differences between the two represented resources. 
 	\begin{figure}[h]
 		\includegraphics[scale=.50]{images/arcv_original.png}
 	\end{figure}	
@@ -227,7 +234,7 @@ On the other hand, the live web still shows stories related to the Las Vegas mas
 ; Stanford University to study body of Vegas shooter; Las Vegas officials again adjust shooting timeline,  GOP punts ‘bump-stock’ decision to ATF.
 
 	\begin{figure}[h]
-		\includegraphics[scale=.25]{images/arcv_present.png}
+		\includegraphics[scale=.50]{images/arcv_present.png}
 	\end{figure}
 
 \end{document}
